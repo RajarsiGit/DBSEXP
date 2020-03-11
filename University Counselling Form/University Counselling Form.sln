@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "University Counselling Form", "University Counselling Form\University Counselling Form.vbproj", "{14165DB8-F765-4DEC-BDE2-5261CDA62A83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14165DB8-F765-4DEC-BDE2-5261CDA62A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14165DB8-F765-4DEC-BDE2-5261CDA62A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14165DB8-F765-4DEC-BDE2-5261CDA62A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14165DB8-F765-4DEC-BDE2-5261CDA62A83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6186AE69-0351-4C19-B491-AA3FB40CF7D5}
+	EndGlobalSection
+EndGlobal

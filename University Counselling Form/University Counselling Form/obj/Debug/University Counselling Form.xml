@@ -1,0 +1,211 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+University Counselling Form
+</name>
+</assembly>
+<members>
+<member name="T:University_Counselling_Form.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:University_Counselling_Form.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:University_Counselling_Form.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.STUDENTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.ADDRESSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.PAYMENT_DETAILSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.PERSONAL_DETAILSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.RANKDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.ADMISSIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.LOGINDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.STUDENTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.ADDRESSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.PAYMENT_DETAILSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.PERSONAL_DETAILSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.RANKRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.ADMISSIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.LOGINRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.STUDENTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.ADDRESSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.PAYMENT_DETAILSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.PERSONAL_DETAILSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.RANKRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.ADMISSIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1.LOGINRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1TableAdapters.STUDENTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1TableAdapters.ADDRESSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1TableAdapters.PAYMENT_DETAILSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1TableAdapters.PERSONAL_DETAILSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1TableAdapters.RANKTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1TableAdapters.ADMISSIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1TableAdapters.LOGINTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:University_Counselling_Form.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(University_Counselling_Form.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:University_Counselling_Form.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(University_Counselling_Form.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:University_Counselling_Form.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(University_Counselling_Form.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:University_Counselling_Form.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:University_Counselling_Form.DataSet1TableAdapters.TableAdapterManager.UpdateAll(University_Counselling_Form.DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:University_Counselling_Form.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

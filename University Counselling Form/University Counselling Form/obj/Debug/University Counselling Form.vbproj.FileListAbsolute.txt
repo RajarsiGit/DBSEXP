@@ -1,0 +1,50 @@
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\bin\Debug\University Counselling Form.exe.config
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\bin\Debug\University Counselling Form.exe.manifest
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\bin\Debug\University Counselling Form.application
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\bin\Debug\University Counselling Form.exe
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\bin\Debug\University Counselling Form.pdb
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\bin\Debug\University Counselling Form.xml
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Form0.resources
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Form1.resources
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Form2.resources
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Form3.resources
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Form4.resources
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Form5.resources
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Form6.resources
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Form7.resources
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Resources.resources
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.vbproj.GenerateResource.cache
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.vbproj.CoreCompileInputs.cache
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.exe.manifest
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.application
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.vbproj.CopyComplete
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.exe
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.xml
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.pdb
+C:\Users\Rajarsi\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\bin\Debug\University Counselling Form.exe.config
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\bin\Debug\University Counselling Form.exe.manifest
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\bin\Debug\University Counselling Form.application
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\bin\Debug\University Counselling Form.exe
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\bin\Debug\University Counselling Form.pdb
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\bin\Debug\University Counselling Form.xml
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Form0.resources
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Form1.resources
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Form2.resources
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Form3.resources
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Form4.resources
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Form5.resources
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Form6.resources
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Form7.resources
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University_Counselling_Form.Resources.resources
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.exe.manifest
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.application
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.vbproj.CopyComplete
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.exe
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.xml
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.pdb
+C:\Users\Administrator\source\repos\University Counselling Form\University Counselling Form\obj\Debug\University Counselling Form.vbprojAssemblyReference.cache
